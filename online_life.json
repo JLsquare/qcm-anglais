@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What is the connection between big data, tattoos, and immortality?",
+        "choices": [
+            {"choice": "All are easily changeable"},
+            {"choice": "They represent temporary trends"},
+            {"choice": "They symbolize permanence and lasting impact"},
+            {"choice": "They are unrelated concepts"}
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What does an electronic tattoo refer to?",
+        "choices": [
+            {"choice": "A physical tattoo with electronic components"},
+            {"choice": "Our digital footprint, including online activities"},
+            {"choice": "A special kind of body art"},
+            {"choice": "A temporary digital mark"}
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What information can be found on the Internet about an individual?",
+        "choices": [
+            {"choice": "Only social media profiles"},
+            {"choice": "Exclusively browsing history"},
+            {"choice": "Limited to online purchases"},
+            {"choice": "Social media, public records, browsing history, and more"}
+        ],
+        "answer": 4
+    },
+    {
+        "question": "What is the meaning of 'immortality' in the context of this course?",
+        "choices": [
+            {"choice": "The physical ability to live forever"},
+            {"choice": "The digital presence outliving physical existence"},
+            {"choice": "A mythological concept"},
+            {"choice": "A new technology for extending life"}
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the significance of the analogy with Greek mythology in the concept of electronic tattoos?",
+        "choices": [
+            {"choice": "Highlighting the artistry of electronic tattoos"},
+            {"choice": "Comparing to historical battles"},
+            {"choice": "Illustrating various aspects of our online lives"},
+            {"choice": "Demonstrating the evolution of technology"}
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What does Juan Enriquez advise about online posts?",
+        "choices": [
+            {"choice": "Post as frequently as possible"},
+            {"choice": "Only post about others"},
+            {"choice": "Be cautious and think twice before posting"},
+            {"choice": "Focus solely on creating a perfect online persona"}
+        ],
+        "answer": 3
+    },
+    {
+        "question": "How is true online anonymity described in the course?",
+        "choices": [
+            {"choice": "Easily achievable for everyone"},
+            {"choice": "Not challenging to maintain"},
+            {"choice": "Challenging, yet increased by certain tools and practices"},
+            {"choice": "Unnecessary in the modern world"}
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What are the problems associated with online immortality?",
+        "choices": [
+            {"choice": "Increased fame and popularity"},
+            {"choice": "Loss of privacy and potential reputation damage"},
+            {"choice": "Improved online security"},
+            {"choice": "Easier data management"}
+        ],
+        "answer": 2
+    }
+]

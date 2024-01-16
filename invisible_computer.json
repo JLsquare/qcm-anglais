@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What does Douglas Adams suggest about technology becoming part of our lives?",
+        "choices": [
+            {"choice": "It remains constantly visible and complex"},
+            {"choice": "It is always labeled as technology"},
+            {"choice": "It becomes an invisible, effortless part of our lives"},
+            {"choice": "It stops being useful"}
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is 'Ubiquitous Computing'?",
+        "choices": [
+            {"choice": "Using one computer for all tasks"},
+            {"choice": "A future state with computers integrated into our environment"},
+            {"choice": "Computing limited to certain areas"},
+            {"choice": "A type of supercomputer"}
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which is an example of invisible technology?",
+        "choices": [
+            {"choice": "Traditional desktop computers"},
+            {"choice": "Smartphones"},
+            {"choice": "Google Glass"},
+            {"choice": "Old-fashioned typewriters"}
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What are the consequences of a spoken relationship with computers?",
+        "choices": [
+            {"choice": "Less efficient communication"},
+            {"choice": "Receiving direct, customized answers"},
+            {"choice": "Increased need for typing skills"},
+            {"choice": "Higher error rates in data"}
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What concern arises with surveillance in invisible computing?",
+        "choices": [
+            {"choice": "Decreased efficiency"},
+            {"choice": "Reduced technological innovation"},
+            {"choice": "Increased surveillance without our awareness"},
+            {"choice": "More user-friendly interfaces"}
+        ],
+        "answer": 3
+    },
+    {
+        "question": "When do we stop considering something as technology according to the course?",
+        "choices": [
+            {"choice": "When it becomes invisible and effortless"},
+            {"choice": "When it is no longer sold commercially"},
+            {"choice": "When it becomes outdated"},
+            {"choice": "When it is used by everyone"}
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Who originated the concept of 'Ubiquitous Computing'?",
+        "choices": [
+            {"choice": "Elon Musk"},
+            {"choice": "Mark Zuckerberg"},
+            {"choice": "Bill Gates"},
+            {"choice": "Mark Weiser"}
+        ],
+        "answer": 4
+    },
+    {
+        "question": "What is the primary interface for devices like Google Glass?",
+        "choices": [
+            {"choice": "Touchscreens"},
+            {"choice": "Speech, location, and movement"},
+            {"choice": "Mouse and keyboard"},
+            {"choice": "Remote controls"}
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is a downside of computers providing firm answers?",
+        "choices": [
+            {"choice": "Reduced user engagement"},
+            {"choice": "Overreliance on inaccurate information"},
+            {"choice": "Increased power consumption"},
+            {"choice": "Higher cost"}
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Why is it important to continue asking questions as computers become more invisible?",
+        "choices": [
+            {"choice": "To improve their design"},
+            {"choice": "To assess their impact"},
+            {"choice": "To increase their speed"},
+            {"choice": "To reduce their cost"}
+        ],
+        "answer": 2
+    }
+]

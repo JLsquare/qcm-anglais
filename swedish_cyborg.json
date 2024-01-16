@@ -1,0 +1,219 @@
+[
+    {
+        "question": "What is the title of 'The Rise of the Swedish Cyborgs'?",
+        "choices": [
+            {
+                "choice": "A science fiction novel"
+            },
+            {
+                "choice": "A collection of real events"
+            },
+            {
+                "choice": "A comic book series"
+            },
+            {
+                "choice": "A documentary film"
+            }
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Where is the RFID chip implanted?",
+        "choices": [
+            {
+                "choice": "In the head"
+            },
+            {
+                "choice": "In the hand"
+            },
+            {
+                "choice": "In the heart"
+            },
+            {
+                "choice": "In the foot"
+            }
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What does Mr. Sjoblad do?",
+        "choices": [
+            {
+                "choice": "Runs a large business"
+            },
+            {
+                "choice": "Is a sci-fi writer"
+            },
+            {
+                "choice": "Organizes implant parties"
+            },
+            {
+                "choice": "Develops video games"
+            }
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the future of the new technology according to Mr. Sjoblad?",
+        "choices": [
+            {
+                "choice": "It will disappear soon"
+            },
+            {
+                "choice": "It will become more common"
+            },
+            {
+                "choice": "It is uncertain"
+            },
+            {
+                "choice": "It will be banned"
+            }
+        ],
+        "answer": 2
+    },
+    {
+        "question": "How does Mr. Sjoblad find participants for the chip implant?",
+        "choices": [
+            {
+                "choice": "Through family and friends"
+            },
+            {
+                "choice": "Via television advertisements"
+            },
+            {
+                "choice": "Through social media and hacker communities"
+            },
+            {
+                "choice": "By random selection"
+            }
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What can the new technology do currently?",
+        "choices": [
+            {
+                "choice": "Teleport users"
+            },
+            {
+                "choice": "Act as a security interface for doors"
+            },
+            {
+                "choice": "Enable time travel"
+            },
+            {
+                "choice": "Increase physical strength"
+            }
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Is the new technology still costly?",
+        "choices": [
+            {
+                "choice": "No, it's affordable for everyone"
+            },
+            {
+                "choice": "Yes, especially the door locks"
+            },
+            {
+                "choice": "It's free of charge"
+            },
+            {
+                "choice": "Cost varies depending on the country"
+            }
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Has medical surgery using bionic technology become routine?",
+        "choices": [
+            {
+                "choice": "No, it's still experimental"
+            },
+            {
+                "choice": "Yes, especially for missing limbs"
+            },
+            {
+                "choice": "Only in certain countries"
+            },
+            {
+                "choice": "It's banned worldwide"
+            }
+        ],
+        "answer": 2
+    },
+    {
+        "question": "How do people generally feel about these medical practices?",
+        "choices": [
+            {
+                "choice": "Shocked"
+            },
+            {
+                "choice": "Indifferent"
+            },
+            {
+                "choice": "Accepting and normalizing"
+            },
+            {
+                "choice": "Unaware"
+            }
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What can the Google contact lenses monitor?",
+        "choices": [
+            {
+                "choice": "Internet activity"
+            },
+            {
+                "choice": "Glucose levels"
+            },
+            {
+                "choice": "Brain waves"
+            },
+            {
+                "choice": "Blood pressure"
+            }
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What can wearable devices check?",
+        "choices": [
+            {
+                "choice": "Only heart rate"
+            },
+            {
+                "choice": "Only calorie intake"
+            },
+            {
+                "choice": "Multiple functions like heart rate, calorie intake, and sleep patterns"
+            },
+            {
+                "choice": "They can't check any body functions"
+            }
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Can the chip implant procedure be reversed?",
+        "choices": [
+            {
+                "choice": "No, it's permanent"
+            },
+            {
+                "choice": "Yes, but it takes a long time"
+            },
+            {
+                "choice": "Yes, and it only takes five minutes"
+            },
+            {
+                "choice": "It's unknown if it can be reversed"
+            }
+        ],
+        "answer": 3
+    }
+]
+

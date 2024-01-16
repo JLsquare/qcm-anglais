@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Where is AppleHQ located?",
+        "choices": [
+            {"choice": "San Francisco, California"},
+            {"choice": "Cupertino, California"},
+            {"choice": "Los Angeles, California"},
+            {"choice": "San Diego, California"}
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What does AppleHQ's building resemble?",
+        "choices": [
+            {"choice": "A giant spaceship"},
+            {"choice": "A traditional office building"},
+            {"choice": "A large cube"},
+            {"choice": "A series of interconnected domes"}
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When was the AppleHQ project first announced?",
+        "choices": [
+            {"choice": "2000"},
+            {"choice": "2003"},
+            {"choice": "2006"},
+            {"choice": "2009"}
+        ],
+        "answer": 3
+    },
+    {
+        "question": "How long did it take to start building the AppleHQ site?",
+        "choices": [
+            {"choice": "3 years"},
+            {"choice": "5 years"},
+            {"choice": "8 years"},
+            {"choice": "10 years"}
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What was the original estimated cost of AppleHQ?",
+        "choices": [
+            {"choice": "$500 million"},
+            {"choice": "$1 billion"},
+            {"choice": "$2 billion"},
+            {"choice": "$3 billion"}
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the shape of the main AppleHQ building?",
+        "choices": [
+            {"choice": "Circular"},
+            {"choice": "Square"},
+            {"choice": "Triangular"},
+            {"choice": "Massive ring-shaped"}
+        ],
+        "answer": 4
+    },
+    {
+        "question": "What percentage of the campus is green space?",
+        "choices": [
+            {"choice": "50%"},
+            {"choice": "60%"},
+            {"choice": "70%"},
+            {"choice": "80%"}
+        ],
+        "answer": 4
+    },
+    {
+        "question": "What type of energy powers a significant part of AppleHQ?",
+        "choices": [
+            {"choice": "Wind turbines"},
+            {"choice": "Hydroelectric power"},
+            {"choice": "Solar power"},
+            {"choice": "Nuclear power"}
+        ],
+        "answer": 3
+    },
+    {
+        "question": "How many trees are there in the AppleHQ campus?",
+        "choices": [
+            {"choice": "Over 5,000"},
+            {"choice": "Over 7,000"},
+            {"choice": "Over 9,000"},
+            {"choice": "Over 11,000"}
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the capacity of the Apple Auditorium?",
+        "choices": [
+            {"choice": "500 seats"},
+            {"choice": "750 seats"},
+            {"choice": "1,000 seats"},
+            {"choice": "1,250 seats"}
+        ],
+        "answer": 3
+    }
+]
